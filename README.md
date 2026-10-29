@@ -1,2 +1,3 @@
-# systems-analysis-hospital-queue
+# systems-analysis-hospital-system
 Hospital Queue Management System - Systems Analysis &amp; Design Course Project
+An Integrated Hospital Management and Smart Automation System designed to improve coordination between hospital departments. The proposed system covers patient registration, appointment scheduling, inpatient bed management, operating room scheduling, staff shifts, laboratory services, pharmacy inventory, and administrative reporting. Its main goal is to reduce manual work, minimize data-entry errors, improve resource utilization, and provide authorized users with more organized access to hospital information. This project focuses on system analysis, feasibility assessment, requirements definition, and the design of a practical prototype.
